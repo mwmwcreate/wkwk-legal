@@ -1,9 +1,9 @@
 ---
-title: WKWK 法的文書
+title: ina 法的文書
 layout: default
 ---
 
-# WKWK 法的文書
+# ina 法的文書
 
 - [プライバシーポリシー](./privacy.html)
 - [利用規約](./terms.html)
