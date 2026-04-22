@@ -3,6 +3,8 @@ title: ina 利用規約
 layout: default
 ---
 
+<p><img src="./ina_logo.png" alt="ina" width="80"></p>
+
 # 利用規約
 
 最終更新日: 2026年4月22日
